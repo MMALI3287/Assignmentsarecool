@@ -1,0 +1,8 @@
+
+j
+java:S1450"TRemove the "lab03" field and declare it as a local variable in the relevant methods.(ÑğòÑ
+>
+java:S1172"(Remove this unused method parameter "v".(¡é††
+h	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌøœÈşÿÿÿÿ
+F
+java:S1172#"+Remove this unused method parameter "view".(ÌøœÈşÿÿÿÿ
